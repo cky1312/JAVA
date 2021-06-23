@@ -1,0 +1,16 @@
+Abstract and Interface:
+* An abstract method cannot be declared as static or private.
+* A class cannot be declared as private or protected.
+* An abstract class may or may not contain abstract method inside it.
+* If a class contains at least 1 abstract method then that class has to
+  be declared abstract as well.
+* We cannot decrease the scope/visibility of overridden method in child
+  class.
+* Super keyword cannot be used with interfaces.
+* An interface can contain any no. of methods.
+* The byte code of an interface
+*
+*
+*
+*
+*
